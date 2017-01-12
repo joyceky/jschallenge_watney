@@ -44,3 +44,5 @@ Knowing how to do the following in JavaScript will help you more easily complete
 
 - Converting characters to ASCII and back.
 - Converting from decimal numbers to hexadecimal numbers.
+- Using the JavaScript String methods
+- Using High-Order Functions
