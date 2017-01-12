@@ -20,7 +20,7 @@ He decides to solve this problem in the following way.
 
 1) Instead of using letters - encode each letter using the [ASCII encoding standard](http://www.asciitable.com/).
 
-2) Instead of encoding them in decimal numbers, encode them in hexadecimal.  
+2) Instead of encoding them in decimal numbers, encode them in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal).  
 
 The standard ASCII table encodes characters into numbers from 0-127 decimal.  Having the characters encoded into 2 or 3 digits causes a extra thing to consider.  Not to mention more digits needing to be transferred.  
 
