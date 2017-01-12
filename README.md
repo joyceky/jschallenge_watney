@@ -40,7 +40,7 @@ Run the **tests** with ```npm test``` and get all the tests to pass.
 
 ## Hints
 
-Knowing how to do the following in JavaScript will help you easily complete this challenge
+Knowing how to do the following in JavaScript will help you more easily complete this challenge
 
 - Converting characters to ASCII and back.
 - Converting from decimal numbers to hexadecimal numbers.
