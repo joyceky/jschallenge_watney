@@ -14,7 +14,7 @@ Luckily the camera is remote controlled and can spin 360 degrees.  He devises a 
 
 His initial idea is to place a series of cards with each letter of the alphabet around the camera, which would allow NASA to point the camera and spell words.  With 26 letters in the alphabet, there would only be 13 degrees of arc between each letter, making it difficult to know which card the camera is actually pointed at.
 
-![circle](../circle.jpg)
+![circle](./circle.jpg)
 
 He decides to solve this problem in the following way.
 
@@ -22,7 +22,7 @@ He decides to solve this problem in the following way.
 
 2) Instead of encoding them in decimal numbers, encode them in hexadecimal.
 
-![asciihex](../asciihex.jpg)
+![asciihex](./asciihex.jpg)
 
 ## Your challenge
 
@@ -36,7 +36,7 @@ Edit the file `watneyDecoder.js` and implement the following functions
 
 Run the **tests** with ```npm test``` and get all the tests to pass.
 
-![decoding](../decoding.jpg)
+![decoding](./decoding.jpg)
 
 ## Hints
 
