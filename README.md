@@ -47,6 +47,6 @@ Run the **tests** with ```npm test``` and get all the tests to pass.
 Knowing how to do the following in JavaScript will help you more easily complete this challenge
 
 - Converting characters to ASCII and back.
-- Converting from decimal numbers to hexadecimal numbers.
+- Converting from decimal numbers to/from hexadecimal numbers.
 - Using the JavaScript String methods
 - Using High-Order Functions
