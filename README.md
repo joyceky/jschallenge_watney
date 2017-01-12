@@ -22,7 +22,7 @@ He decides to solve this problem in the following way.
 
 2) Instead of encoding them in decimal numbers, encode them in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal).  
 
-The standard ASCII table encodes characters into numbers from 0-127 decimal.  Having the characters encoded into 2 or 3 digits causes a extra thing to consider.  Not to mention more digits needing to be transferred.  
+The standard ASCII table encodes characters into numbers from 0-127 decimal.  Having the characters encoded into 2 or 3 digits adds complexity when decoding.  Not to mention more digits needing to be transferred.  
 
 If the characters are encoded into hexadecimal then the range is 00-7F.  This keeps it a standard 2 digits for every letter, and requires fewer digits needing to be transferred.
 
