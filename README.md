@@ -36,7 +36,7 @@ Edit the file `watneyDecoder.js` and implement the following functions
 
 - encode: converts string to ASCII-Hex
 - decode: converts ASCII-Hex to string
-- encodeArc: convers a string to the proper degrees of arc to point the camera.
+- encodeArc: convers a string to the proper degrees of arc to point the camera.  The first card is at 0° and they are placed around the circle in a clockwise fashion.
 
 Run the **tests** with ```npm test``` and get all the tests to pass.
 
